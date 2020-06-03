@@ -5,6 +5,7 @@ Todo:
 - xgboost
 - word2vec的两层连接层，因为还没确定用那个深度学习框架写
 - 需要探究一些train集和test在ad.csv的上重合度，可能需要合起来做个map
+- 现在特征工程做的太少了，
 
 
 
